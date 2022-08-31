@@ -1,0 +1,4 @@
+Agregue en el HTML principal: 
+<meta name="description" content="Todo lo que necesitas saber de shows, musica y mucho mas!">
+<meta name="keywords" content="music, shows, gamer, places, travel">
+<title>Pop-Purri</title>
